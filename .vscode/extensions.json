@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "polymeilex.wgsl",
+        "wgsl-analyzer.wgsl-analyzer",
+        "ggsimm.wgsl-literal"
+    ]
+}
